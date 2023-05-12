@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Number Guessing Game</title>
+	
 </head>
 <body>
 	<h1>Number Guessing Game</h1>
