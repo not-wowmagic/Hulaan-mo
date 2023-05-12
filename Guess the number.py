@@ -41,9 +41,9 @@ def play_game(top_of_range, max_guesses, hint_range):
 def choose_difficulty():
     while True:
         print("Choose your difficulty level:")
-        print("1. Easy (0-20, 10 guesses, hint range of 5)")
-        print("2. Medium (0-50, 8 guesses, hint range of 10)")
-        print("3. Hard (0-500, 6 guesses, hint range of 20)")
+        print("1. Easy (0-20, 5 guesses, hint range of 5)")
+        print("2. Medium (0-50, 10 guesses, hint range of 10)")
+        print("3. Hard (0-500, 20 guesses, hint range of 10)")
         print("4. Custom")
         difficulty_choice = get_valid_input("Enter 1, 2, 3, or 4: ")
         
@@ -54,16 +54,16 @@ def choose_difficulty():
             break
         elif difficulty_choice == 2:
             top_of_range = 50
-            max_guesses = 8
+            max_guesses = 10
             hint_range = 10
             break
         elif difficulty_choice == 3:
             top_of_range = 500
-            max_guesses = 6
-            hint_range = 20
+            max_guesses = 20
+            hint_range = 10
             break
         elif difficulty_choice == 4:
-            top_of_range = get_valid_input("Type the maximum number: ")
+            top_of_range = get_valid_input("Type the maximum number to guess: ")
             max_guesses = 20
             hint_range = 5
             break
