@@ -4,7 +4,7 @@
 	
 </head>
 <body>
-	<h1>Number Guessing Game</h1>
+	<h1>Number Guessing Game(Hulaan mo)</h1>
 	<p>The Number Guessing Game is a simple command-line game in which the user tries to guess a randomly generated number within a specified range.</p>
     <h2>Requirements</h2>
 <p>To play the Number Guessing Game, you need to have Python 3 installed on your computer. You can download Python 3 for free from the official Python website: <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a></p>
@@ -12,7 +12,7 @@
 <h2>How to Play</h2>
 <p>To play the game, open a terminal or command prompt and navigate to the directory where the number_guessing_game.py file is located. Then, run the following command:</p>
 
-<pre><code>python number_guessing_game.py</code></pre>
+<pre><code>python Guess the number.pyy</code></pre>
 
 <p>The game will prompt you to choose a difficulty level. You can choose from one of the following options:</p>
 
