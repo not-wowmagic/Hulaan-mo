@@ -10,7 +10,7 @@
 <p>To play the Number Guessing Game, you need to have Python 3 installed on your computer. You can download Python 3 for free from the official Python website: <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a></p>
 
 <h2>How to Play</h2>
-<p>To play the game, open a terminal or command prompt and navigate to the directory where the number_guessing_game.py file is located. Then, run the following command:</p>
+<p>To play the game, open a terminal or command prompt and navigate to the directory where the Guess the number.py file is located. Then, run the following command:</p>
 
 <pre><code>python Guess the number.py</code></pre>
 
