@@ -12,7 +12,7 @@
 <h2>How to Play</h2>
 <p>To play the game, open a terminal or command prompt and navigate to the directory where the number_guessing_game.py file is located. Then, run the following command:</p>
 
-<pre><code>python Guess the number.pyy</code></pre>
+<pre><code>python Guess the number.py</code></pre>
 
 <p>The game will prompt you to choose a difficulty level. You can choose from one of the following options:</p>
 
